@@ -3,29 +3,8 @@
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
 
-<p align="center">
-  ![Image alt](https://github.com/nordbearbotdev/Torpeda/blob/master/img/test.jpg)width="200" height="200">
-</p>
-
-# :computer: Windows
-
-Soon!
-
-</p>
 
 # 📥 Установка
-
-
-<h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
-
-  - Установите Python 3.8 [Скачать](https://www.python.org/downloads/release/python-38)
-  - Откроется установщик и нажмите на кнопку: `add python to PATH`
-  - Скачайте архив Valkyire <a href="https://github.com/nordbearbotdev/Torpeda/archive/refs/heads/main.zip" target="blank">Скачать</a>
-  - Откройте cmd или PowerShell с Torpeda
-  - Введите команду: `pip install -r requirements.txt`  
-
-
- 
 
  <h2>Linux</h2><img src="https://raw.githubusercontent.com/8fn/Valkyire/main/img/linux-icon-28166.png" width="50" height="50">
 
