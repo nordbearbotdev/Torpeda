@@ -24,7 +24,7 @@ print(colored( '''
 ''','magenta'))
 
 
-phone = input(colored('Введите номер телеофонаr>>: ','cyan'))
+phone = input(colored('Введите номер телеофона>>: ','cyan'))
 countT = input(colored('Введите кол-во потоков>>: ','blue'))
 
 
