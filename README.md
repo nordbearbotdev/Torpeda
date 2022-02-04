@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda//img/" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda//img/test.jpg" width="200" height="200">
 </p>
 
 # :computer: Windows
