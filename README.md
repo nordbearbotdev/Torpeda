@@ -8,8 +8,8 @@
 </p>
 
 # :computer: Windows
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda/main/img/imgshow.png">
+
+Soon!
 
 </p>
 
