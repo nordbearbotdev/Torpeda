@@ -6,8 +6,7 @@
 
 # 📥 Установка
 
- <h2>Linux</h2><img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png width="50" height="50">
-
+<h2>Linux</h2>
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
