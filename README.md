@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
+![T6JfpBroXqE_cut-photo ru](https://user-images.githubusercontent.com/85753549/152521021-9b7fd46e-ecdb-4dde-9a7a-bfe9479f57eb.jpg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda/main/img/" width="200" height="200">
@@ -10,6 +11,7 @@
 # :computer: Windows
 <p align="center">
   <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda/main/img/imgshow.png">
+
 </p>
 
 # 📥 Установка
