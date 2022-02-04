@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nordbearbotdev/Torpeda//img/test.jpg" width="200" height="200">
+  ![Image alt](https://github.com/nordbearbotdev/Torpeda/blob/master/img/test.jpg)width="200" height="200">
 </p>
 
 # :computer: Windows
