@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
 
+![test](https://user-images.githubusercontent.com/85753549/152547302-cf59ae70-e643-4467-b76b-5d311298214e.jpg)
 
 # 📥 Установка
 
