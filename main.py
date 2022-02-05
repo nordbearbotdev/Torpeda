@@ -740,7 +740,7 @@ def update():
         elif exists("/data/data/com.termux/files/usr/bin") and isfile("/data/data/com.termux/files/usr/bin/Torpeda"):
             file = open("/data/data/com.termux/files/usr/bin/Torpeda", "wb")
         try:
-            file.write(get("https://raw.githubusercontent.com/nordbearbotdev/Torpeda/master/Torpeda.py").content)
+            file.write(get("https://raw.githubusercontent.com/nordbearbotdev/Torpeda/master/main.py").content)
             file.close()
             system("Torpeda")
         except UnboundLocalError:
