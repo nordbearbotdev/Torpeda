@@ -16,7 +16,7 @@ sudo apt install python3 python3-pip git -y
 git clone https://github.com/nordbearbotdev/Torpeda
 cd Torpeda
 pip3 install -r requirements.txt or python -m pip install -r requirements.txt
-python.py
+python3 main.py
 ```
 
 <h2>Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
