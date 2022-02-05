@@ -7,8 +7,18 @@
 
 # 📥 Установка
 
+<h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
+
+  - Установите Python 3.8 [Скачать](https://www.python.org/downloads/release/python-38)
+  - Откроется установщик и нажмите на кнопку: `add python to PATH`
+  - Скачайте архив Torpeda <a href="https://github.com/nordbearbotdev/Torpeda/archive/refs/heads/main.zip" target="blank">Скачать</a>
+  - Откройте cmd или PowerShell с Torped(a)
+  - Введите команду: `pip install -r requirements.txt`  
+
 
 <h2>Linux</h2>
+
+🐧
 
 ```
 sudo apt update
