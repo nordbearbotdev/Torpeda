@@ -23,7 +23,8 @@ from time import sleep
 from colorama import Fore, Style
 from requests import get, post
 from user_agent import generate_user_agent
-import termcolor import colored
+import termcolor
+import colored
 
 
 print(colored( '''
