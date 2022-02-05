@@ -27,7 +27,7 @@ apt upgrade
 git clone https://github.com/nordbearbotdev/Torpeda
 cd Torpeda
 pip install -r requirements.txt
-python main.py
+python3 main.py
 ```
 
 ## ❓ Как использовать прокси?
