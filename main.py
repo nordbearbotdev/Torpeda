@@ -13,8 +13,6 @@
 #    ██     ██████  ██   ██ ██      ███████ ██████  ██   ██ 
                                                           
                                                                                                           
-import os
-
 from os import name, system
 from os.path import exists, isfile
 from random import choice, randint
@@ -23,11 +21,12 @@ from time import sleep
 from colorama import Fore, Style
 from requests import get, post
 from user_agent import generate_user_agent
-import termcolor
-import colored
+from termcolor import colored
 
 
-print(colored( '''
+def banner():
+    system("cls" if name == "nt" else "clear")
+    print(colored( '''
 ▄▄▄█████▓ ▒█████   ██▀███   ██▓███  ▓█████ ▓█████▄  ▄▄▄      
 ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒▓██░  ██▒▓█   ▀ ▒██▀ ██▌▒████▄    
 ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒▓██░ ██▓▒▒███   ░██   █▌▒██  ▀█▄  
