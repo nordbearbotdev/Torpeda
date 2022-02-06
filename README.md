@@ -5,9 +5,10 @@
 
 ![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
-### Авторы
+## Авторы
 
 Developer / Author: [nordbearbotdev](https://github.com/nordbearbotdev/)
+
 Developer / Author: [Enigma](https://github.com/enigma-hacksploit)
 
 ### <h2 align="center">😈 Follow 😈 </h2>
