@@ -5,6 +5,16 @@
 
 ![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
+### Авторы
+
+Developer / Author: [nordbearbotdev](https://github.com/nordbearbotdev/)
+Developer / Author: [Enigma](https://github.com/enigma-hacksploit)
+
+### <h2 align="center">😈 Follow 😈 </h2>
+<p align="center">
+<a href="https://t.me/HackSploiitt"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+</p>
+
 # 📥 Установка
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
