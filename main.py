@@ -685,6 +685,9 @@ def start_spam(phone, proxies):
         except:
             pass
 
+       try:
+	    formatted_phone = format_phone(phone
+	    post("https://ru-ru.facebook.com/login/", data={"phone": phone}, headers=headers, proxies=proxies) 
 
 def parse_phone(phone):
     if phone in ["", " "]:
