@@ -39,7 +39,7 @@ apt update
 apt upgrade
 git clone https://github.com/nordbearbotdev/Torpeda
 cd Torpeda
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 python3 main.py
 ```
 
