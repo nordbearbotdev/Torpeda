@@ -2,3 +2,4 @@ colorama
 requests
 user_agent
 termcolor
+wget
