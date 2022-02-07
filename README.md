@@ -19,10 +19,10 @@
 * [Termux]()
 * [Q&A]()
 
-# Сайт
+# 📒 Сайт
 Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda
 
-# Wiki
+# 📌 Wiki
 Вы можете помочь новичкам написав или поправив статьи о использовании [Torpeda](https://github.com/nordbearbotdev/Torpeda) в офицальной [Wiki](https://github.com/nordbearbotdev/Torpeda/wiki)
 
 # 📥 Установка
@@ -35,7 +35,7 @@
   - Откройте cmd или PowerShell с Torped(a)
   - Введите команду: `pip install -r requirements.txt`  
 
-<h2>Linux</h2>
+<h2> 🐧 Linux</h2>
 
 ```
 sudo apt update
@@ -46,7 +46,7 @@ pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 python3 main.py
 ```
 
-<h2>Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
+<h2> 🐧 Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
 
 ```
 apt update
