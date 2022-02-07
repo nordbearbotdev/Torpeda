@@ -11,7 +11,7 @@
 
 
 # Сайт
-Офицальный [сайт]() Torpeda
+Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda
 
 # Wiki
 Вы можете помочь новичкам написав или поправив статьи о использовании [Torpeda](https://github.com/nordbearbotdev/Torpeda) в офицальной [Wiki](https://github.com/nordbearbotdev/Torpeda/wiki)
