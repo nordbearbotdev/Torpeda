@@ -11,13 +11,13 @@
 
 # Содержание
 
-* [Сайт](       )
-* [Wiki]
-* [Установка]
-* [Windows]
-* [Linux]
-* [Termux]
-* [Q&A]
+* [Сайт](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#%D1%81%D0%B0%D0%B9%D1%82)
+* [Wiki]()
+* [Установка]()
+* [Windows]()
+* [Linux]()
+* [Termux]()
+* [Q&A]()
 
 # Сайт
 Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda
