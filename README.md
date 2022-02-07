@@ -11,6 +11,13 @@
 
 # Содержание
 
+* Сайт
+* Wiki
+* Установка
+* Windows
+* Linux
+* Termux
+* Q&A
 
 # Сайт
 Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda
