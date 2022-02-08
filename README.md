@@ -16,7 +16,7 @@
 * [📥 Установка]()
 * [Windows]()
 * [Linux]()
-* [Termux]()
+* [Termux](https://github.com/nordbearbotdev/Torpeda#--termux)
 * [❓Q&A]()
 
 # 📒 Сайт
