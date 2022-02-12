@@ -15,7 +15,7 @@
 * [📌 Wiki](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#wiki)
 * [📥 Установка]()
 * [Windows](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#windows)
-* [Linux](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#--linux
+* [Linux](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#--linux)
 * [Termux](https://github.com/nordbearbotdev/Torpeda#--termux)
 * [❓Q&A](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#-как-использовать-прокси)
 
