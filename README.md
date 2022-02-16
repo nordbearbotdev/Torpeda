@@ -9,6 +9,9 @@
 
 ![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
+
+В Даннном проекте используется проект [Cludeex(a)](https://github.com/cludeex/spammer)
+
 # Содержание
 
 * [📒 Сайт](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#%D1%81%D0%B0%D0%B9%D1%82)
