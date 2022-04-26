@@ -23,7 +23,7 @@
 * [❓Q&A](https://github.com/nordbearbotdev/Torpeda/blob/main/README.md#-как-использовать-прокси)
 
 # 📒 Сайт
-Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda
+Офицальный [сайт](nordbearbotdev.github.io/torpeda/) Torpeda, на нем публикуются материалы по бомберу
 
 # 📌 Wiki
 Вы можете помочь новичкам написав или поправив статьи о использовании [Torpeda](https://github.com/nordbearbotdev/Torpeda) в офицальной [Wiki](https://github.com/nordbearbotdev/Torpeda/wiki)
