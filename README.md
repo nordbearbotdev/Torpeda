@@ -49,7 +49,7 @@ pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 python3 main.py
 ```
 
-<h2> 🐧 Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
+<h2> Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
 
 ```
 apt update
@@ -68,4 +68,12 @@ proxies = {
  "http": "http://10.10.10.10:8000",
  "https": "http://10.10.10.10:8000",
 }
+```
+
+
+# Донат
+
+```
+# Monero
+
 ```
