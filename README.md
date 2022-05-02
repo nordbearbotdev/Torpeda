@@ -2,8 +2,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
-<a href="https://t.me/HackSploiitt"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
-</p>
 
 ![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
