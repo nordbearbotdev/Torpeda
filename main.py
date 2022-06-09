@@ -38,7 +38,7 @@ def banner():
              ░ ░     ░                 ░  ░   ░          ░  ░
                                             ░                
 		  Cделано в @HackSploitt
-          Авторы: Enigma & nordbearbot
+          Авторы: Enigma & Commit 404 (nordbearbot)
 ''','magenta'))
 
 
