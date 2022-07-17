@@ -72,3 +72,8 @@ proxies = {
 # Monero
 
 ```
+
+```
+# TON
+EQDknXiu4dTU74-IZkaeWMqBRCsCJInXiwOA95FkJ7W4uzCB
+```
