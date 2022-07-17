@@ -66,7 +66,7 @@ proxies = {
 ```
 
 
-# Донат
+# Донат/DONATE
 
 ```
 # Monero
