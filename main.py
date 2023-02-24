@@ -25,6 +25,7 @@ banner = '''
              ░ ░     ░                 ░  ░   ░          ░  ░
                                             ░                
 		    Авторы: Enigma & Commit 404 (nordbearbot)  
+		    t.me/CrimsonCoalition
         Версия: V.2.0
 '''
 import sys
