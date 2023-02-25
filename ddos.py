@@ -22,7 +22,7 @@ from requests import get, post
 from user_agent import generate_user_agent
 from termcolor import colored
 
-
+# Banner / Баннер
 def banner():
     system("cls" if name == "nt" else "clear")
     print(colored( '''
@@ -36,7 +36,8 @@ def banner():
   ░      ░ ░ ░ ▒    ░░   ░ ░░          ░    ░ ░  ░   ░   ▒   
              ░ ░     ░                 ░  ░   ░          ░  ░
                                             ░                
-		  Cделано в @HackSploitt
-          Авторы: Enigma & nordbearbot
+		  Cделано в @CrimsonCoalition
+                  Авторы: Enigma & Commit 404
+		  Версия 0.4.
 ''','magenta'))
                                 
